@@ -5,7 +5,7 @@
 ### TortoiseGit
 * [TortoiseGit](https://tortoisegit.org/)
 
-> sourceFiles文件夹中已包含上述安装文件，其他较有名的Git客户端软件还有[SourceTree](https://www.sourcetreeapp.com/)，可自行探索
+> 其他较有名的Git客户端软件还有[SourceTree](https://www.sourcetreeapp.com/)，可自行探索
 
 ## Git操作基本流程
 ![alt text](images/gitCommand.png)
