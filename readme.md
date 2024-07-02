@@ -3,7 +3,7 @@
 # 说明
 本文件参考了Git Flow 规范
 # 分支命名规范
-![alt text](named.jpg)
+![alt text](images/named.jpg)
 * 工作流使用2个分支来记录项目的历史：master，develop。
 * master分支存储了正式发布的历史，而develop分支作为功能的集成分支。
 * feature-*分支用于不同功能的开发，开发人员根据功能需求创建feature-*分支，开发完成后合并到develop分支。
@@ -23,7 +23,7 @@ develop分支上有了做一次发布（或者说快到了既定的发布日）�
 用于生成快速给产品发布版本（production releases）打补丁，这是唯一可以直接从master分支fork出来的分支。修复完成，修改应该马上合并回master分支和develop分支（当前的发布分支），master分支应该用新的版本号打好Tag。
 
 # 执行流程
-![alt text](gitflow.png)
+![alt text](images/gitflow.png)
 
 # 版本号规范
 版本号分为3部分：主版本号.次版本号.修订号，版本号递增规则如下：
