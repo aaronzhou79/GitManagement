@@ -8,6 +8,13 @@ git checkout develop
 git checkout -b feature-1111
 ```
 
+# 提交代码到本地仓库
+```bash
+git add .
+git commit -m "feature-1111"
+```
+
+
 # 完成一个feature分支
 ```bash
 git checkout develop
