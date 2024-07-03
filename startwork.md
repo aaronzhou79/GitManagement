@@ -11,6 +11,7 @@
 ![alt text](images/gitFeature.png)
 
 完成之后，会切换到feature分支，并自动更新到develop分支的最新代码。
+
 # 3. 开发代码
 ```
 进行正常的代码开发，完成任务后，提交代码到本地仓库。
@@ -21,18 +22,4 @@
     提交
 ```
 ![alt text](images/gitCommit.png)
-
-
-
-# 提交代码到本地仓库
-```bash
-git add .
-git commit -m "feature-1111"
-```
-
-
-# 完成一个feature分支
-```bash
-git checkout develop
-git merge feature-10
-```
+该操作可以进行多次，直到真正完成【Feature-#禅道任务号】中的任务。
