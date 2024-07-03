@@ -1,8 +1,17 @@
 我是在远程修改的！
 Modeify by Aaron Zhou @ 20240703 1430
 
-# 1. 从远程仓库中克隆代码到本地
+# 0. 从远程仓库中克隆代码到本地
 ![alt text](images/gitClone.png)
+
+# 1. 更新远程develop分支代码到本地
+```
+  右键 --> TortoiseGit --> 拉取(Pull)
+    远端：origin
+    远端分支：develop
+    其它默认
+```
+![alt text](images/gitPull.jpg)
 
 # 2. 创建feature分支
 ```
