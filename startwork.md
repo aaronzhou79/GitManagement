@@ -1,3 +1,5 @@
+我是在远程修改的！
+
 # 1. 从远程仓库中克隆代码到本地
 ![alt text](images/gitClone.png)
 
