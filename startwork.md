@@ -24,4 +24,8 @@
 ![alt text](images/gitCommit.png)
 该操作可以进行多次，直到真正完成【Feature-#禅道任务号】中的任务。
 
-# 4. 合并feature分支到develop分支
+# 4. 推送代码到远程仓库
+![alt text](images/gitPush.png)
+
+# 5. 合并feature到develop
+    至此，所有该任务项的任务已完成，需要合并到develop分支。该事项由项目负责人或开发负责人在管理端完成！
