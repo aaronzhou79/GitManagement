@@ -10,6 +10,7 @@
 ## Git操作基本流程
 ![alt text](images/gitCommand.png)
 ![alt text](images/gitbase.png)
+
 ## 创建本地仓库
 ### 创建本地仓库
 ```bash

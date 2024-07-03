@@ -23,3 +23,5 @@
 ```
 ![alt text](images/gitCommit.png)
 该操作可以进行多次，直到真正完成【Feature-#禅道任务号】中的任务。
+
+# 4. 合并feature分支到develop分支
