@@ -39,5 +39,14 @@ Modeify by Aaron Zhou @ 20240703 1430
 # 4. 推送代码到远程仓库
 ![alt text](images/gitPush.png)
 
-# 5. 合并feature到develop
-    至此，所有该任务项的任务已完成，需要合并到develop分支。该事项由项目负责人或开发负责人在管理端完成！
+# 5. 切换本地代码到develop分支
+```
+  右键 --> TortoiseGit --> 切换/检出
+    切换到：分支 --> develop
+    提交
+```
+![alt text](images/gitBranch.png)
+**至此，所有该任务项的任务已完成。可重复1~5开始不同的工作！**
+
+# *合并feature到develop*
+    该事项由项目负责人或开发负责人在管理端完成！
